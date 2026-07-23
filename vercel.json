@@ -1,5 +1,6 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/Ferticity Egg Freezing Cost - Standalone.html" }
+    { "source": "/", "destination": "/Ferticity Egg Freezing Cost - Standalone.html" },
+    { "source": "/ivf-center-delhi", "destination": "/IVF Center in Delhi - Standalone.html" }
   ]
 }
