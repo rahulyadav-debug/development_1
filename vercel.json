@@ -2,6 +2,8 @@
   "rewrites": [
     { "source": "/", "destination": "/Ferticity Egg Freezing Cost - Standalone.html" },
     { "source": "/ivf-center-delhi", "destination": "/IVF Center in Delhi - Standalone.html" },
-    { "source": "/iui-treatment-delhi", "destination": "/IUI Treatment in Delhi - Standalone.html" }
+    { "source": "/iui-treatment-delhi", "destination": "/IUI Treatment in Delhi - Standalone.html" },
+    { "source": "/blog", "destination": "/blog/index.html" },
+    { "source": "/blog/ivf-process-step-by-step", "destination": "/blog/ivf-process-step-by-step.html" }
   ]
 }
